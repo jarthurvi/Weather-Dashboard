@@ -1,0 +1,15 @@
+h1 {
+    color: cornsilk;
+    text-align: center
+    
+}
+
+header {
+    background-color: blue;
+}
+
+#searchbtn{
+    height: 30px;
+    width: 80px;
+
+}
