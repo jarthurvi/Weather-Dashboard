@@ -1,2 +1,2 @@
 # Weather-Dashboard![WeatherForecast](https://user-images.githubusercontent.com/31134135/136310170-d3f20123-d5fa-4a2a-80bc-adf39286a2f3.png)
-This application allows user to see current and future weather conditions by city. The UV index changes color to indicate weather conditions. 
+This application allows user to see current and future weather conditions by city. The UV index changes color to indicate ideal, moderate, or less favorable weather conditions.Conditions such as temperature, windspeed, and humidity are displayed for each day. User is able to search and view multiple city results.
